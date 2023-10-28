@@ -1,1 +1,1 @@
-# This repo was made via curl. Sticking to cli only
+This repo was made via curl github api. Sticking to cli only
